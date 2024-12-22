@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Liyanage Chamika!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer;Open+to+Collaborations!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Undergraduater;Open+to+Collaborations!" alt="Typing SVG" />
 
 ## 🚀 *About Me*
-- 💻 I'm a [Your Role/Profession] specializing in *[Technologies/Focus Areas]*.
-- 🌱 I’m currently learning: *[Current Skills or Technologies]*.
-- 🔗 Check out my portfolio: [Your Portfolio Link](#)
+- 💻 I'm a Undergraduater. specializing in Computing & Software Engineering.
+- 🌱 I’m currently learning: Cardiff Metropolliten University.
+- 🔗 Check out my portfolio: (https://www.linkedin.com/feed/)(#)
 - 🧠 I’m exploring: *[Topics you're interested in]*.
 - 💬 Feel free to reach out about: *[Topics you are confident in]*.
 - ⚡ Fun fact: *[Interesting fact about you]*.
