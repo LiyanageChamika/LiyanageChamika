@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Student;Open+to+Collaborations!" alt="Typing SVG" />
 
 ## 🚀 *About Me*
-- 💻 I'm a student at Cardiff Metropolitan University.
+- 💻 I'm a student at Cardiff Metropolitan University, currently studying Computing and Software Engineering.
 - 🌱 I’m currently learning: *new technologies and skills related to my studies*.
 - 🔗 Check out my portfolio: [Portfolio Link](#).
 - 🧠 I’m exploring: *topics in technology and innovation*.
