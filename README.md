@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Liyanage Chamika!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer;Open+to+Collaborations!" alt="Typing SVG" />
 
