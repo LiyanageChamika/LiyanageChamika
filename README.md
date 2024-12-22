@@ -35,7 +35,8 @@
 
 ## 🌐 *Connect with Me*
 <p align="center">
-  <a href="https://linkedin.com/in/liyanagechamika"><img src=["https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"](https://www.linkedin.com/feed/) /></a>
+  <a href=https://www.linkedin.com/feed/><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+
  </p>
 
 ---
