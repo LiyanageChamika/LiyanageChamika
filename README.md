@@ -5,7 +5,6 @@
 ## 🚀 *About Me*
 - 💻 I'm a student at Cardiff Metropolitan University, currently studying Computing and Software Engineering.
 - 🌱 I’m currently learning: *new technologies and skills related to my studies*.
-- 🔗 Check out my portfolio: [Portfolio Link](#).
 - 🧠 I’m exploring: *topics in technology and innovation*.
 - 💬 Feel free to reach out about: *academic collaborations or tech discussions*.
 - ⚡ Fun fact: *I enjoy exploring different cultures and cuisines!*
@@ -23,20 +22,7 @@
 ### Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,figma)
 
----
 
-## 🌟 *Highlighted Projects*
-### 🚀 [Project Name 1](#)
-- Description: [Brief project description]
-- Key Technologies: [Tech stack]
-- Features: [Highlight unique features]
-
-### 🔥 [Project Name 2](#)
-- Description: [Brief project description]
-- Key Technologies: [Tech stack]
-- Features: [Highlight unique features]
-
----
 
 ## 📊 *GitHub Stats*
 <p align="center">
@@ -49,11 +35,8 @@
 
 ## 🌐 *Connect with Me*
 <p align="center">
-  <a href="https://linkedin.com/in/liyanagechamika"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/liyanagechamika"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:liyanagechamika@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge" /></a>
-</p>
+  <a href="https://linkedin.com/in/liyanagechamika"><img src=["https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"](https://www.linkedin.com/feed/) /></a>
+ </p>
 
 ---
 
